@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Domain\\MyOnlineScheduler-API.Activity.Domain\\MyOnlineScheduler-API.Activity.Domain.csproj",
+      "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Domain\\MyOnlineScheduler-API.Activity.Domain\\MyOnlineScheduler-API.Activity.Domain.csproj",
       "projectName": "MyOnlineScheduler-API.Activity.Domain",
-      "projectPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Domain\\MyOnlineScheduler-API.Activity.Domain\\MyOnlineScheduler-API.Activity.Domain.csproj",
+      "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Domain\\MyOnlineScheduler-API.Activity.Domain\\MyOnlineScheduler-API.Activity.Domain.csproj",
       "packagesPath": "C:\\Users\\Francis.Decena\\.nuget\\packages\\",
-      "outputPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Domain\\MyOnlineScheduler-API.Activity.Domain\\obj\\",
+      "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Domain\\MyOnlineScheduler-API.Activity.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

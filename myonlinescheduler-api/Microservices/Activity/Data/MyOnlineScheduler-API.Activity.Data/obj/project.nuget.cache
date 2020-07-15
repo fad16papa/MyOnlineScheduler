@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bHMgwjE6PUUWcIlksqjqfdqveT90IucYQRIjdH9PKD6gF2Bpy3IKQCy4MwmHM5esN/8hJpsZGYWhnzbRHLBZGA==",
+  "dgSpecHash": "WrVDAfv0AS+Va4c7FIn3LsN92jVhgKQt6LxK0/+ZhC61iQI00BU5TbFBt2tJt5Q2IOaFN2MHhiXd3MtLbDwUSg==",
   "success": true,
-  "projectFilePath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Data\\MyOnlineScheduler-API.Activity.Data\\MyOnlineScheduler-API.Activity.Data.csproj",
+  "projectFilePath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Data\\MyOnlineScheduler-API.Activity.Data\\MyOnlineScheduler-API.Activity.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",

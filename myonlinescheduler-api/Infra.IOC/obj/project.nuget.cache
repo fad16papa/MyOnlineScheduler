@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MUUR/pG7rb3bMF8LroLUQnmnj71/IfU47lhe5+xAHyAnk+/wKyPsLxxWR78TbQVX9Nvxl980m73ldqW8yLL/Ug==",
+  "dgSpecHash": "9/n1GEQC+BTXDpwk1YVxDPi1TexZSvq7YSwpGskMEvyfONeCBRFzU4lTVPU3Rrg20WMKQgdBS2DIqLTP76X5kw==",
   "success": true,
-  "projectFilePath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Infra.IOC\\Infra.IOC.csproj",
+  "projectFilePath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Infra.IOC\\Infra.IOC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\microsoft.data.sqlclient\\1.0.19249.1\\microsoft.data.sqlclient.1.0.19249.1.nupkg.sha512",

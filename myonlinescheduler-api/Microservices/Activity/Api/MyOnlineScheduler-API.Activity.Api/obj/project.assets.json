@@ -5041,11 +5041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Api\\MyOnlineScheduler-API.Activity.Api\\MyOnlineScheduler-API.Activity.Api.csproj",
+      "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Api\\MyOnlineScheduler-API.Activity.Api\\MyOnlineScheduler-API.Activity.Api.csproj",
       "projectName": "MyOnlineScheduler-API.Activity.Api",
-      "projectPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Api\\MyOnlineScheduler-API.Activity.Api\\MyOnlineScheduler-API.Activity.Api.csproj",
+      "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Api\\MyOnlineScheduler-API.Activity.Api\\MyOnlineScheduler-API.Activity.Api.csproj",
       "packagesPath": "C:\\Users\\Francis.Decena\\.nuget\\packages\\",
-      "outputPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Api\\MyOnlineScheduler-API.Activity.Api\\obj\\",
+      "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Activity\\Api\\MyOnlineScheduler-API.Activity.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5064,8 +5064,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Infra.IOC\\Infra.IOC.csproj": {
-              "projectPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Infra.IOC\\Infra.IOC.csproj"
+            "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Infra.IOC\\Infra.IOC.csproj": {
+              "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Infra.IOC\\Infra.IOC.csproj"
             }
           }
         }
@@ -5096,7 +5096,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

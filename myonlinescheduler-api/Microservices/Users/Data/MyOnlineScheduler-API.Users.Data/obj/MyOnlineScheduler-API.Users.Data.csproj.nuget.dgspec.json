@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj": {}
+    "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj": {}
   },
   "projects": {
-    "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj": {
+    "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj",
+        "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj",
         "projectName": "MyOnlineScheduler-API.Users.Data",
-        "projectPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj",
+        "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\MyOnlineScheduler-API.Users.Data.csproj",
         "packagesPath": "C:\\Users\\Francis.Decena\\.nuget\\packages\\",
-        "outputPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\obj\\",
+        "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Data\\MyOnlineScheduler-API.Users.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj": {
-                "projectPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj"
+              "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj": {
+                "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj"
               }
             }
           }
@@ -59,18 +59,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj": {
+    "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj",
+        "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj",
         "projectName": "MyOnlineScheduler-API.Users.Domain",
-        "projectPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj",
+        "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj",
         "packagesPath": "C:\\Users\\Francis.Decena\\.nuget\\packages\\",
-        "outputPath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\obj\\",
+        "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,7 +114,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

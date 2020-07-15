@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQ/Th69RRCh3Ztf0F8OQbvULp2E4fpgt04BDCdlpJPoQGOoEVIpiIObTZOh/nRz1/4bg5aCSlXCBqpxd+d8k7w==",
+  "dgSpecHash": "0pKTvXIxwd91uBw/xZISu/T3OYO9RMJbLzwkc9WRAltPb9lTjRhNv5oF+tpP/2nJK+IrJlBDTZzLMzgpNh9Ikw==",
   "success": true,
-  "projectFilePath": "D:\\profolio\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj",
+  "projectFilePath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Microservices\\Users\\Domain\\MyOnlineScheduler-API.Users.Domain\\MyOnlineScheduler-API.Users.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

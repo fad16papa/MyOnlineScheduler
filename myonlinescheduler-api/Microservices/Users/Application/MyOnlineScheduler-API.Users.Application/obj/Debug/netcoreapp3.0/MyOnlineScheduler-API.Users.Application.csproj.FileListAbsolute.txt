@@ -10,3 +10,15 @@ D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Applicat
 D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Domain.dll
 D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Domain.pdb
 D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.csproj.CopyComplete
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.deps.json
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Domain.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Domain.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.csprojAssemblyReference.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.csproj.CoreCompileInputs.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.AssemblyInfoInputs.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.AssemblyInfo.cs
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.csproj.CopyComplete
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Users.Application.pdb
