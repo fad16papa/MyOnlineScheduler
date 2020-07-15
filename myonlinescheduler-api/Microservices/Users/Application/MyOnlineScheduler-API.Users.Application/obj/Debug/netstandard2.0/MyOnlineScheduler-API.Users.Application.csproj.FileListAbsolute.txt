@@ -1,0 +1,9 @@
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.deps.json
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.dll
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\bin\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.pdb
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.csprojAssemblyReference.cache
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.csproj.CoreCompileInputs.cache
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.AssemblyInfoInputs.cache
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.AssemblyInfo.cs
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.dll
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Users\Application\MyOnlineScheduler-API.Users.Application\obj\Debug\netstandard2.0\MyOnlineScheduler-API.Users.Application.pdb

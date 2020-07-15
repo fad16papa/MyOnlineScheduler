@@ -1,0 +1,15 @@
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.deps.json
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.dll
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.pdb
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.csprojAssemblyReference.cache
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.csproj.CoreCompileInputs.cache
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.AssemblyInfoInputs.cache
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.AssemblyInfo.cs
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.dll
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.pdb
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Domain.dll
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Domain.pdb
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.csproj.CopyComplete
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.runtimeconfig.json
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\bin\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.runtimeconfig.dev.json
+D:\profolio\MyOnlineScheduler\myonlinescheduler-api\Microservices\Activity\Data\MyOnlineScheduler-API.Activity.Data\obj\Debug\netcoreapp3.0\MyOnlineScheduler-API.Activity.Data.genruntimeconfig.cache

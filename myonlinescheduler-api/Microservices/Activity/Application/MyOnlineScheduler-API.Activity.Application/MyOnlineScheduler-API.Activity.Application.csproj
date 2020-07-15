@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\MyOnlineScheduler-API.Activity.Domain\MyOnlineScheduler-API.Activity.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>MyOnlineScheduler_API.Activity.Application</RootNamespace>
+  </PropertyGroup>
+
+</Project>

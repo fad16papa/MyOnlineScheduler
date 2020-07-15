@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MyOnlineScheduler-API.Users.Data/1.0.0": {
+        "dependencies": {
+          "MyOnlineScheduler-API.Users.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MyOnlineScheduler-API.Users.Data.dll": {}
+        }
+      },
+      "MyOnlineScheduler-API.Users.Domain/1.0.0": {
+        "runtime": {
+          "MyOnlineScheduler-API.Users.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyOnlineScheduler-API.Users.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyOnlineScheduler-API.Users.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

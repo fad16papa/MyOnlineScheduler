@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "MyOnlineScheduler-API.Activity.Domain/1.0.0": {
+        "runtime": {
+          "MyOnlineScheduler-API.Activity.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyOnlineScheduler-API.Activity.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
