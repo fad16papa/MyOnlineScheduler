@@ -35,8 +35,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Activity.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Activity.Api", "MyOnlineScheduler.Activity.Api\MyOnlineScheduler.Activity.Api.csproj", "{0F0FDACE-9C3E-4F77-A960-16D0FBDAE75A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Infra.IOC", "MyOnlineScheduler.Infra.IOC\MyOnlineScheduler.Infra.IOC.csproj", "{90CABE02-603C-4E48-9457-E66DDCC24FA3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Users.Api", "MyOnlineScheduler.Users.Api\MyOnlineScheduler.Users.Api.csproj", "{82FF78A4-BAC5-457A-9B63-77F112E568C4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Users.Application", "MyOnlineScheduler.Users.Application\MyOnlineScheduler.Users.Application.csproj", "{542E9ABD-F770-49B2-B079-FA3E3A94BD4B}"
@@ -44,6 +42,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Users.Data", "MyOnlineScheduler.Users.Data\MyOnlineScheduler.Users.Data.csproj", "{3332C47A-2463-464D-83AC-6C7A9E3A9C99}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Users.Domain", "MyOnlineScheduler.Users.Domain\MyOnlineScheduler.Users.Domain.csproj", "{A3B203DB-28E7-4BA8-9BBE-62EF09C47EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyOnlineScheduler.Infra.IOC", "MyOnlineScheduler.Infra.IOC\MyOnlineScheduler.Infra.IOC.csproj", "{23118129-26EC-4384-A5A2-D4CA92226840}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,10 +67,6 @@ Global
 		{0F0FDACE-9C3E-4F77-A960-16D0FBDAE75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F0FDACE-9C3E-4F77-A960-16D0FBDAE75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F0FDACE-9C3E-4F77-A960-16D0FBDAE75A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90CABE02-603C-4E48-9457-E66DDCC24FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90CABE02-603C-4E48-9457-E66DDCC24FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90CABE02-603C-4E48-9457-E66DDCC24FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90CABE02-603C-4E48-9457-E66DDCC24FA3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{82FF78A4-BAC5-457A-9B63-77F112E568C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{82FF78A4-BAC5-457A-9B63-77F112E568C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82FF78A4-BAC5-457A-9B63-77F112E568C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -87,6 +83,10 @@ Global
 		{A3B203DB-28E7-4BA8-9BBE-62EF09C47EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3B203DB-28E7-4BA8-9BBE-62EF09C47EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3B203DB-28E7-4BA8-9BBE-62EF09C47EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23118129-26EC-4384-A5A2-D4CA92226840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23118129-26EC-4384-A5A2-D4CA92226840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23118129-26EC-4384-A5A2-D4CA92226840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23118129-26EC-4384-A5A2-D4CA92226840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -106,11 +106,11 @@ Global
 		{77BFAC89-358C-451C-B193-B663902E8800} = {C0FD9D49-CC9D-4A40-9F67-43B088D6D334}
 		{D93B1626-ECF7-4A48-870B-276C1B8E843E} = {7C344CEB-1B2D-4B8E-AA26-83F711FCDD7C}
 		{0F0FDACE-9C3E-4F77-A960-16D0FBDAE75A} = {56D771C5-CFC3-49A2-B077-C6BF125E44F3}
-		{90CABE02-603C-4E48-9457-E66DDCC24FA3} = {1C7A27B0-A4DD-4A99-8BEC-1A8192225F8C}
 		{82FF78A4-BAC5-457A-9B63-77F112E568C4} = {E19D7D95-C94B-4536-B836-D707D0683C57}
 		{542E9ABD-F770-49B2-B079-FA3E3A94BD4B} = {301420E0-D00A-4AF2-AAD0-DA9807C1FA7E}
 		{3332C47A-2463-464D-83AC-6C7A9E3A9C99} = {6B036274-9BBC-4D4B-99BF-10EA92C1AD05}
 		{A3B203DB-28E7-4BA8-9BBE-62EF09C47EEB} = {0B208A32-7402-4D45-89D5-EB19B92476C5}
+		{23118129-26EC-4384-A5A2-D4CA92226840} = {1C7A27B0-A4DD-4A99-8BEC-1A8192225F8C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6451599F-BDA3-43E5-A510-A30DB95FB14E}

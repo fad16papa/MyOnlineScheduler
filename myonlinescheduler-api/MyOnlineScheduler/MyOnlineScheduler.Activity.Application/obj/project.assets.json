@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.0": {
+      "MyOnlineScheduler.Activity.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/MyOnlineScheduler.Activity.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyOnlineScheduler.Activity.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "MyOnlineScheduler.Activity.Domain/1.0.0": {
+      "type": "project",
+      "path": "../MyOnlineScheduler.Activity.Domain/MyOnlineScheduler.Activity.Domain.csproj",
+      "msbuildProject": "../MyOnlineScheduler.Activity.Domain/MyOnlineScheduler.Activity.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.0": [
+      "MyOnlineScheduler.Activity.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\": {},
@@ -28,15 +47,19 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "netcoreapp3.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "projectReferences": {}
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\MyOnlineScheduler\\MyOnlineScheduler.Activity.Domain\\MyOnlineScheduler.Activity.Domain.csproj": {
+              "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\MyOnlineScheduler\\MyOnlineScheduler.Activity.Domain\\MyOnlineScheduler.Activity.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -46,7 +69,7 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
+      "netcoreapp3.0": {
         "imports": [
           "net461",
           "net462",

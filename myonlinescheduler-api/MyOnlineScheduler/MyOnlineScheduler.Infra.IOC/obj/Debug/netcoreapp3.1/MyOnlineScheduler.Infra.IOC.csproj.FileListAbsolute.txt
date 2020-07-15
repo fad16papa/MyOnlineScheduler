@@ -1,9 +1,0 @@
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\bin\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.deps.json
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\bin\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.dll
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\bin\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.pdb
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.AssemblyInfoInputs.cache
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.AssemblyInfo.cs
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.csproj.CoreCompileInputs.cache
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.dll
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.pdb
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Infra.IOC\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Infra.IOC.csprojAssemblyReference.cache

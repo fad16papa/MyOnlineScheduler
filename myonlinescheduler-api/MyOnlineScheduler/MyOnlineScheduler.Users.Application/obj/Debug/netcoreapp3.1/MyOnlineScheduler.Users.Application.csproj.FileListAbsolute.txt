@@ -1,9 +1,9 @@
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\bin\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.deps.json
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\bin\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.dll
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\bin\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.pdb
-D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.csprojAssemblyReference.cache
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.AssemblyInfoInputs.cache
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.AssemblyInfo.cs
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.csproj.CoreCompileInputs.cache
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.dll
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Application\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Application.csprojAssemblyReference.cache

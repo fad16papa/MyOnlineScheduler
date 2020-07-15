@@ -1,0 +1,12 @@
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.deps.json
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Domain.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\bin\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Domain.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.csprojAssemblyReference.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.AssemblyInfoInputs.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.AssemblyInfo.cs
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.csproj.CoreCompileInputs.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.csproj.CopyComplete
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Activity.Application\obj\Debug\netcoreapp3.0\MyOnlineScheduler.Activity.Application.pdb

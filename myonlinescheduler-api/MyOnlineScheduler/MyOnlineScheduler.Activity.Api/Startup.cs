@@ -6,10 +6,14 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Internal;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using MyOnlineScheduler.Activity.Data.Context;
+using MyOnlineScheduler.Infra.IOC;
 
 namespace MyOnlineScheduler.Activity.Api
 {
@@ -25,7 +29,21 @@ namespace MyOnlineScheduler.Activity.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<ActivityDbContext>(options =>
+            {
+                options.UseSqlServer(Configuration.GetConnectionString("ActivityDbConnection"));
+            });
+
+            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+
             services.AddControllers();
+
+            RegisteredServices(services);
+        }
+
+        private void RegisteredServices(IServiceCollection services)
+        {
+            DependencyInjection.RegisterService(services);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
