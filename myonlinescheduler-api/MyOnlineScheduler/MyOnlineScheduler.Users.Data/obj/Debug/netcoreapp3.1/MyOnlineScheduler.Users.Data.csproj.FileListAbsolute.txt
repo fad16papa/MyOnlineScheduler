@@ -6,3 +6,4 @@ D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineSched
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Data\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Data.csproj.CoreCompileInputs.cache
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Data\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Data.dll
 D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Data\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Data.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-api\MyOnlineScheduler\MyOnlineScheduler.Users.Data\obj\Debug\netcoreapp3.1\MyOnlineScheduler.Users.Data.csprojAssemblyReference.cache
