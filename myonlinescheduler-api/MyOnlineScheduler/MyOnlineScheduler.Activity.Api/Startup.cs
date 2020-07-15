@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -14,6 +15,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using MyOnlineScheduler.Activity.Data.Context;
 using MyOnlineScheduler.Infra.IOC;
+using Swashbuckle;
 
 namespace MyOnlineScheduler.Activity.Api
 {
@@ -38,6 +40,10 @@ namespace MyOnlineScheduler.Activity.Api
 
             services.AddControllers();
 
+            services.AddSwaggerGen();
+
+            services.AddMediatR(typeof(Startup));
+
             RegisteredServices(services);
         }
 
@@ -53,6 +59,13 @@ namespace MyOnlineScheduler.Activity.Api
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(options =>
+            {
+                options.SwaggerEndpoint("/swagger/v1/swagger.json", "MyOnlineScheduler.Activity.API V1");
+            });
 
             app.UseHttpsRedirection();
 
