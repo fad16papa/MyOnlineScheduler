@@ -69,3 +69,11 @@ D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\MyS
 D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\Pomelo.EntityFrameworkCore.MySql.dll
 D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\Pomelo.JsonObject.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\AutoMapper.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\FluentValidation.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\FluentValidation.AspNetCore.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\MediatR.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\bin\Debug\netcoreapp3.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-api\API\obj\Debug\netcoreapp3.0\API.MvcApplicationPartsAssemblyInfo.cs
