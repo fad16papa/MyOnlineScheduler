@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jYDiG6JmPWRVcIyjClo4IOQA8zTsAVnQDRXh/7hvclaPaIG/wMlMYXYFmoJyrZrA0rASvQw6heho97WBTVpfYA==",
+  "dgSpecHash": "T+3gtYG+1o33+zvq4+gBPFfwRgd7Sdn99hYXuTwhEM8t9/PQTAy+d3GI/M0caC4iCIN1/Qzt/9a2ho57s0P3Jg==",
   "success": true,
-  "projectFilePath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
