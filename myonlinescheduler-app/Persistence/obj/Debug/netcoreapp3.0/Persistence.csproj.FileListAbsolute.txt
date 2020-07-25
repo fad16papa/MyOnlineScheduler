@@ -10,3 +10,15 @@ D:\react\MyOnlineScheduler\myonlinescheduler-api\Persistence\obj\Debug\netcoreap
 D:\react\MyOnlineScheduler\myonlinescheduler-api\Persistence\bin\Debug\netcoreapp3.0\Domain.dll
 D:\react\MyOnlineScheduler\myonlinescheduler-api\Persistence\bin\Debug\netcoreapp3.0\Domain.pdb
 D:\react\MyOnlineScheduler\myonlinescheduler-api\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CopyComplete
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\bin\Debug\netcoreapp3.0\Persistence.deps.json
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\bin\Debug\netcoreapp3.0\Persistence.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\bin\Debug\netcoreapp3.0\Persistence.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\bin\Debug\netcoreapp3.0\Domain.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\bin\Debug\netcoreapp3.0\Domain.pdb
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\obj\Debug\netcoreapp3.0\Persistence.csprojAssemblyReference.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfoInputs.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\obj\Debug\netcoreapp3.0\Persistence.AssemblyInfo.cs
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CoreCompileInputs.cache
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\obj\Debug\netcoreapp3.0\Persistence.csproj.CopyComplete
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\obj\Debug\netcoreapp3.0\Persistence.dll
+D:\react\MyOnlineScheduler\myonlinescheduler-app\Persistence\obj\Debug\netcoreapp3.0\Persistence.pdb

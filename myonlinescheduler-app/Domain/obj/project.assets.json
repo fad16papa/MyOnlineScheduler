@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Domain\\Domain.csproj",
+      "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Francis.Decena\\.nuget\\packages\\",
-      "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Domain\\obj\\",
+      "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

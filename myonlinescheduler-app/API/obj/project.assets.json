@@ -7692,11 +7692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\API\\API.csproj",
+      "projectUniqueName": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\API\\API.csproj",
+      "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Francis.Decena\\.nuget\\packages\\",
-      "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\API\\obj\\",
+      "outputPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7715,8 +7715,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Application\\Application.csproj": {
-              "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Application\\Application.csproj"
+            "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\Application\\Application.csproj": {
+              "projectPath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\Application\\Application.csproj"
             }
           }
         }

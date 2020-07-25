@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lJL6XcWRkrp/2gCgTwbVFFewSDKJ3bx1J5RrYPjGnb560OQat74G2nCgGLguXJjr3mKgQMdEjoS9HVLaYNLXwQ==",
+  "dgSpecHash": "INunxELRWM6UQdi58eDxI7m9plnAmt8qeG2hr5qrQTQCVVJdnQv3jNgCK1xle3vKzPXCcp/3JG6iyEwUX7iv0Q==",
   "success": true,
-  "projectFilePath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-api\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\react\\MyOnlineScheduler\\myonlinescheduler-app\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\castle.core\\4.2.1\\castle.core.4.2.1.nupkg.sha512",
     "C:\\Users\\Francis.Decena\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
